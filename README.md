@@ -9,5 +9,5 @@ To run the project:
 4. Delete 'delete.txt' from temp and upload.
 5. Run main.py
 
-The original model was trained using the IAM Handwriting Dataset(lines), so for predicting an whole image the page_to_lines.py file was written.
+The original model was trained using the IAM Handwriting Dataset(lines), so for predicting an whole page the page_to_lines.py file was written.
 Do not delete any folder even if it's empty.
